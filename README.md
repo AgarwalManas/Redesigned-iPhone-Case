@@ -8,4 +8,4 @@ If more details are required (such as project description), please email to - ma
 ![Dimensions-1](Dimension_1.jpg)
 
 ## Dimensions 2 of 2
-![Dimensions-2](Dimension_1.jpg)
+![Dimensions-2](Dimension_2.jpg)
